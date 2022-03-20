@@ -1,0 +1,12 @@
+Khách hàng : https://dh51800699-php.000webhostapp.com/
+
+
+Người quản lý : https://dh51800699-php.000webhostapp.com/admin/
+
+==================================
+Tài khoản khách hàng : đăng nhập, đăng ký bằng tài khoản google hoặc tự tạo tài khoản
+
+
+Tài khoản người quản lý : 
+	- username : phamphuoc102
+	- password : Pphamhuuphuoc123
